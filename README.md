@@ -3,9 +3,7 @@
 <!---------------------------------------------------------------------------->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,20:5c1a00,55:b45309,85:d97706,100:fbbf24&height=280&section=header&text=Fit-Yoga&fontSize=72&fontColor=fef3c7&fontAlignY=38&fontStyle=bold&desc=Online%20Fitness%20%26%20Yoga%20Booking%20and%20Content%20Management%20System&descAlignY=60&descSize=17&descColor=fcd34d&animation=fadeIn" width="100%"/>
-
 </div>
 
 <!---------------------------------------------------------------------------->
