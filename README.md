@@ -775,6 +775,27 @@ sequenceDiagram
 <br/><br/>
 
 <!---------------------------------------------------------------------------->
+<!--  CONTACT                                                                -->
+<!---------------------------------------------------------------------------->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0f00,100:0e0&height=64&text=%F0%9F%93%9E%20%20Contact%20and%20Support&fontSize=22&fontColor=dcfce7&fontAlignY=52&fontAlign=50" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+**Need Help or Have Questions?**
+
+<br/>
+
+[![GitHub Issues](https://img.shields.io/badge/Issues-Report%20Bug-red?style=for-the-badge&logo=github)](https://github.com/kumarpiyushraj/Fit-Yoga/issues)&nbsp;
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-Ask%20Question-blue?style=for-the-badge&logo=github)](https://github.com/kumarpiyushraj/Fit-Yoga/discussions)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20Developer-green?style=for-the-badge&logo=gmail)](mailto:kmpiyushraj@gmail.com)
+
+</div>
+
+<br/><br/>
+<!---------------------------------------------------------------------------->
 <!--  FOOTER                                                                 -->
 <!---------------------------------------------------------------------------->
 
