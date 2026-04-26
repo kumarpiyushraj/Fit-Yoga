@@ -778,7 +778,7 @@ sequenceDiagram
 <!--  CONTACT                                                                -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0a00,100:060200&height=64&text=%F0%9F%93%9E%20%20Contact%20and%20Support&fontSize=22&fontColor=dcfce7&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0a00,100:060200&height=64&text=%F0%9F%93%9E%20%20Contact%20and%20Support&fontSize=22&fontColor=ffa340&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
