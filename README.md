@@ -766,8 +766,6 @@ sequenceDiagram
 
 | &nbsp; | Acknowledgment |
 |:---:|:---|
-| 🏛️ | **VIT, Vellore** — For academic support and infrastructure |
-| 👨‍🏫 | **Prof. Senthil Murugan B** — For project guidance and mentorship |
 | 🌍 | **MERN Stack Community** — For excellent libraries and documentation |
 | 💬 | **Stack Overflow Community** — For invaluable problem-solving assistance |
 | 🌟 | **Open Source Contributors** — Everyone who helped shape this project |
